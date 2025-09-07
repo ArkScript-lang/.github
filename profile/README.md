@@ -1,4 +1,4 @@
-![ArkScript logo by Mazz](ArkTransparent.png)
+![ArkScript logo by Mazz](https://raw.githubusercontent.com/ArkScript-lang/.github/refs/heads/master/profile/ArkTransparent.png)
 
 ArkScript is a small, fast, and functional scripting language inspired by Lisp, Lua, and Python, designed to be easily embedded in C++ applications.
 
